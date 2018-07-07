@@ -1,6 +1,6 @@
 local_setting.py
-/.idea/
-/__pycache__/
+.idea/
+__pycache__/
 
 Downloads/*
 !.gitkeep
