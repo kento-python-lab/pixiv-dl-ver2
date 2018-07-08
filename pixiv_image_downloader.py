@@ -30,6 +30,7 @@ if not os.path.exists(saving_directory_path):
     os.mkdir(saving_directory_path)
 
 for id_search in range(start_id_search, end_id_search):
+    sleep(2)
     print(separator)
     print(separator)
     print(f'target_id：  {id_search}')
