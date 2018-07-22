@@ -1,6 +1,7 @@
 local_setting.py
 .idea/
 __pycache__/
+.VScode
 
 Downloads/*
 !.gitkeep
